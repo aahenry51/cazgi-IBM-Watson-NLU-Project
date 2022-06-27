@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Watson-NLU
+   random-route: false
+   memory: 128M
